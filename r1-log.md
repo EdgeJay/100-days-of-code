@@ -2,9 +2,12 @@
 
 **Detailed posts related to 100 days of code can also be viewed at https://www.edgejay.works/100daysofcode**
 
-The log of my #100DaysOfCode challenge. Started on [October 17, Monday, 2021].
+The log of my #100DaysOfCode challenge. Started on [October 18, Monday, 2021].
 
 ## Log
+
+### R1D0
+
 
 ### R1D1 
 
